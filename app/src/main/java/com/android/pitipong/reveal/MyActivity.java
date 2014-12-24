@@ -12,6 +12,13 @@ public class MyActivity extends Activity implements View.OnClickListener {
     private View selectedView;
     private int backgroundColor;
 
+//
+//    TEstf foerw  asdfekj;
+//    asdf
+//
+//    asdfae
+//
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
